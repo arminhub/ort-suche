@@ -16,7 +16,7 @@ Die Web-App wurde im Rahmen einer IT-Ausbildung am WIFI Wien für eine Pflichtü
   
 - **Koordinatenabfrage**: Mit der PLZ wird automatisch über eine Web-API die zugehörige Breitengrad und Längengrad ermittelt und im Formular ausgegeben.
 
-- **Error-Handling mit Try-Catch**
+- **Error-Handling mit Try-Catch**:
 Die Verwendung von Try-Catch-Blöcken in der ermöglicht es, Fehler abzufangen und darauf zu reagieren und erleichtert auch das Debuggen des Codes.
 
 - **Responsives Design**: Die Website wurde entwickelt, um auf verschiedenen Geräten und Bildschirmgrößen gut auszusehen und zu funktionieren. Dies gewährleistet eine optimale Benutzererfahrung, unabhängig davon, ob die Website auf einem Desktop-Computer, Tablet oder Smartphone angezeigt wird.
